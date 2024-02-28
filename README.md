@@ -3,7 +3,7 @@
 Sou aluno do ensino médio, sou estudante de desenvolvimento de sistema no curso tecnico.
 estou buscando aprender o maximo de linguagem que eu consigo.Atualmente estou buscando apreder sobre javascript,
 tambem quero apreder sobre html,php, entre outros...
-## Materias que estou cursando dentro do curso tecnico são:
+## Materias que estou cursando:
 -Analasie e e projet de sistema
 
 -Banco de dados
