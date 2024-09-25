@@ -1,8 +1,7 @@
 # Bem vindo! 👽
 ## meu nome é Caua Henrique 
 Sou aluno do ensino médio, sou estudante de desenvolvimento de sistema no curso tecnico.
-estou buscando aprender o maximo de linguagem que eu consigo.Atualmente estou buscando apreder sobre javascript,
-tambem quero apreder sobre html,php, entre outros...
+estou buscando aprender o maximo de linguagem que eu consigo.Atualmente estou buscando apreder sobre javascript,php. Futuramente quero aprender sobre nodejs e melhorar meu html e css.
 ## Materias que estou cursando:
 -Analasie e e projet de sistema
 
