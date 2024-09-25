@@ -1,4 +1,4 @@
-# Bem vindo! 👽
+# Bem vindo! 
 ## meu nome é Caua Henrique 
 Sou aluno do ensino médio, sou estudante de desenvolvimento de sistema no curso tecnico.
 estou buscando aprender o maximo de linguagem que eu consigo.Atualmente estou buscando apreder sobre javascript,php. Futuramente quero aprender sobre nodejs e melhorar meu html e css.
